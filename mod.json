@@ -1,0 +1,10 @@
+{
+  "name": "TheUltimateMod",
+  "displayName": "Best Mod Ever",
+  "author": "[red]A[cyan]b[yellow]i[blue]A[red]b[cyan]i",
+  "description": ""
+  "version": "2.12",
+  "minGameVersion": 125,
+  "hidden": false //true//辅助性质
+ // "dependencies": ["MOD name"],   JS里的引用： const ui = require("MOD name/js文件 name");
+}
